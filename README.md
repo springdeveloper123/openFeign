@@ -26,7 +26,7 @@ mvn spring-boot:run
 ```
 ### Testing Demo Application
 - GET Url for all students : http://localhost:8080/students
-- GET Url for given student id : http://localhost:8083/students/1
+- GET Url for given student id : http://localhost:8080/students/1
 - GET Url for all student course details : http://localhost:8080/students/course
 - GET Url for given student with course details : http://localhost:8080/students/course/1
-- GET Url for given student with course and results : http://localhost:8083/students/course/marks/1
+- GET Url for given student with course and results : http://localhost:8080/students/course/marks/1
